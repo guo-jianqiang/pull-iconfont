@@ -1,5 +1,5 @@
 # pull-iconfont
-一键拉取iocnfont文件到本地
+Pull the iocnfont file to the local in one step
 
 ## install
 
