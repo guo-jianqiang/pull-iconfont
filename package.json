@@ -1,0 +1,39 @@
+{
+  "name": "@rainbow_deer/pull-iconfont",
+  "version": "1.0.4",
+  "description": "iconfont 拉取cli",
+  "main": "scripts/index.js",
+  "files": [
+    "bin",
+    "scripts/index.js"
+  ],
+  "scripts": {
+    "publish": "npm publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guo-jianqiang/pull-iconfont.git"
+  },
+  "keywords": [
+    "iconfont",
+    "cli"
+  ],
+  "author": "guojianqiang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guo-jianqiang/pull-iconfont/issues"
+  },
+  "homepage": "https://github.com/guo-jianqiang/pull-iconfont#readme",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bin": {
+    "pull-iconfont": "bin/start.js"
+  },
+  "devDependencies": {
+    "chalk": "^4.1.2",
+    "querystring": "^0.2.1",
+    "request": "^2.88.2",
+    "spinnies": "^0.5.1"
+  }
+}
