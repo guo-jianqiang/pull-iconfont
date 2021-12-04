@@ -22,6 +22,7 @@ module.exports = {
   cookie: '*'
 }
 ```
+### run
 ```shell
 pull-iconfont
 ```
