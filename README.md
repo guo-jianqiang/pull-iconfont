@@ -1,5 +1,5 @@
 # pull-iconfont
-Pull the iocnfont file to the local in one step
+Pull the iconfont file to the local in one step
 
 ## install
 
